@@ -40,6 +40,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 ## PROGRAM:
 ```
+Name    : Paarkavy B
+Roll no : 212221230072
+```
+
+```
 import numpy as np
 L=[int(i) for i in input().split()]
 
